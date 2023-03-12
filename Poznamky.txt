@@ -1,0 +1,2 @@
+Hra miny:
+Tento projekt som spravil prepojenim WebAssembly a rustu je tam vyuzity aj JS. 
